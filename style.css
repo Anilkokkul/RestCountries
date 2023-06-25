@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(120, 14, 220);
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+    margin: 10px;
+    border: 2px solid brown;
+    text-align: center;   
+
+}
+
+.card-title{
+    background-color: aqua;
+}
+
+.card{
+    border: 5px solid black important;
+}
+
+.card-body{
+    background-color:bisque;
+}
